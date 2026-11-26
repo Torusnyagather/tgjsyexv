@@ -1,0 +1,23 @@
+{
+  "repo": "manageengine-opmanager-monitoring-ultimate",
+  "product": "ManageEngine OpManager Monitoring Ultimate",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "manageengine-opmanager-monitoring",
+    "manageengine-opmanager",
+    "how-to-install-manageengine-opmanager",
+    "how-to-setup-manageengine-opmanager",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "manageengine-monitoring",
+    "file-management"
+  ],
+  "site": "unaflore.co",
+  "product_title": "ManageEngine OpManager Monitoring Ultimate"
+}
